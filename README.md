@@ -1,5 +1,5 @@
 ### ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=민서%20CodeGream🎨&fontSize=70)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=black)
 <!--
 **m1ns30/m1ns30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
