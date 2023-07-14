@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Hi%20I'm%20Minseo&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Hi%20I'm%20Minseo&fontSize=50)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1ns30&show_icons=true)
 <!--
 **m1ns30/m1ns30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
