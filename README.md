@@ -8,6 +8,7 @@
 ```yml
 # About Me
 Born: 2006
+Nationality: South Korea
 ```
 <hr />
 
