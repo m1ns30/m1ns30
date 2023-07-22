@@ -1,15 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=300&section=header&text=Hi%20I'm%20Minseo&fontSize=60)
-<!--
-**m1ns30/m1ns30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+  Hi there
+  <a id="waving">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width=25 />
+  </a>
+</h3>
 
-Here are some ideas to get you started:
+```yml
+# About Me
+Born: 2006
+```
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a id="Language">
+  <h3>Language</h3>
+  <img src="https://skillicons.dev/icons?i=php" />
+</a>
