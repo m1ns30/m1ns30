@@ -21,5 +21,5 @@ Nationality: South Korea
 
 <a id="Used">
   <h3>Used</h3>
-  <img src="https://skillicons.dev/icons?i=idea" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode" />
 </a>
