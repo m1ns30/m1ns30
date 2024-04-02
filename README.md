@@ -23,5 +23,3 @@ Nationality: South Korea
   <h3>Used</h3>
   <img src="https://skillicons.dev/icons?i=idea,vscode" />
 </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?m1ns30=anuraghazra&layout=compact)
