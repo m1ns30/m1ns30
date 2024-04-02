@@ -14,7 +14,7 @@ Nationality: South Korea
 
 <a id="Language">
   <h3>Language</h3>
-  <img src="https://skillicons.dev/icons?i=php,python,html" />
+  <img src="https://skillicons.dev/icons?i=php,python,html,js" />
 </a>
 
 <hr />
