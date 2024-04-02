@@ -24,4 +24,4 @@ Nationality: South Korea
   <img src="https://skillicons.dev/icons?i=idea,vscode" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?m1ns30=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1ns30anuraghazra&layout=compact)
